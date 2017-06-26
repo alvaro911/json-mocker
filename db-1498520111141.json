@@ -1,0 +1,54 @@
+{
+  "team": [
+    {
+      "_id": "514b2490-86cf-4507-a853-80299f907eb7",
+      "team_name": "Keshawn Dibbert",
+      "players": [
+        {
+          "player": "Kertzmann",
+          "jersery": 31907
+        },
+        {
+          "player": "Yost",
+          "jersery": 43388
+        },
+        {
+          "player": "Schroeder",
+          "jersery": 88872
+        },
+        {
+          "player": "Jacobson",
+          "jersery": 58165
+        },
+        {
+          "player": "Terry",
+          "jersery": 67923
+        },
+        {
+          "player": "Nader",
+          "jersery": 27296
+        },
+        {
+          "player": "Nicolas",
+          "jersery": 12676
+        },
+        {
+          "player": "Rogahn",
+          "jersery": 27037
+        },
+        {
+          "player": "Stamm",
+          "jersery": 57180
+        },
+        {
+          "player": "Sanford",
+          "jersery": 32533
+        },
+        {
+          "player": "McGlynn",
+          "jersery": 62973
+        }
+      ]
+    }
+  ]
+}

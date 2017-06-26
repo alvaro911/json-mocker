@@ -1,0 +1,54 @@
+{
+  "team": [
+    {
+      "_id": "b58ec82e-a360-4af2-8c93-96337b2a3fe8",
+      "team_name": "Elza Hudson",
+      "players": [
+        {
+          "player": "Christiansen",
+          "jersery": 54816
+        },
+        {
+          "player": "Hauck",
+          "jersery": 60673
+        },
+        {
+          "player": "Gutmann",
+          "jersery": 9024
+        },
+        {
+          "player": "Christiansen",
+          "jersery": 17669
+        },
+        {
+          "player": "Barrows",
+          "jersery": 44163
+        },
+        {
+          "player": "Pollich",
+          "jersery": 99289
+        },
+        {
+          "player": "Zboncak",
+          "jersery": 61058
+        },
+        {
+          "player": "Block",
+          "jersery": 76092
+        },
+        {
+          "player": "Gaylord",
+          "jersery": 80360
+        },
+        {
+          "player": "Brekke",
+          "jersery": 73715
+        },
+        {
+          "player": "Rau",
+          "jersery": 37451
+        }
+      ]
+    }
+  ]
+}

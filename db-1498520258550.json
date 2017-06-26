@@ -1,0 +1,54 @@
+{
+  "team": [
+    {
+      "_id": "27a00572-c7cd-45ac-b73a-848e7490a446",
+      "team_name": "Preston Leannon",
+      "players": [
+        {
+          "player": "Haley",
+          "jersery": 36432
+        },
+        {
+          "player": "Dare",
+          "jersery": 53442
+        },
+        {
+          "player": "Cummings",
+          "jersery": 48676
+        },
+        {
+          "player": "Rempel",
+          "jersery": 70314
+        },
+        {
+          "player": "Roberts",
+          "jersery": 34251
+        },
+        {
+          "player": "Grimes",
+          "jersery": 72546
+        },
+        {
+          "player": "Pfeffer",
+          "jersery": 13904
+        },
+        {
+          "player": "West",
+          "jersery": 9369
+        },
+        {
+          "player": "Reinger",
+          "jersery": 74722
+        },
+        {
+          "player": "Lynch",
+          "jersery": 87719
+        },
+        {
+          "player": "Deckow",
+          "jersery": 95197
+        }
+      ]
+    }
+  ]
+}

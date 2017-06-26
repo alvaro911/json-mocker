@@ -1,3 +1,3 @@
 #JSON-Mocker
 
-node application to create mock data using lodash and faker.
+node application to create mock data using json-server, lodash and faker.

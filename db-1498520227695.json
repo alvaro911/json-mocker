@@ -1,0 +1,54 @@
+{
+  "team": [
+    {
+      "_id": "cedc0461-a388-4bbc-89ae-6ebf2f82f7b9",
+      "team_name": "Allan VonRueden",
+      "players": [
+        {
+          "player": "Reinger",
+          "jersery": 92715
+        },
+        {
+          "player": "Torp",
+          "jersery": 63613
+        },
+        {
+          "player": "Schultz",
+          "jersery": 65086
+        },
+        {
+          "player": "Rohan",
+          "jersery": 54369
+        },
+        {
+          "player": "Lueilwitz",
+          "jersery": 87284
+        },
+        {
+          "player": "Sanford",
+          "jersery": 63685
+        },
+        {
+          "player": "Cassin",
+          "jersery": 94435
+        },
+        {
+          "player": "Wintheiser",
+          "jersery": 58125
+        },
+        {
+          "player": "Labadie",
+          "jersery": 13221
+        },
+        {
+          "player": "Douglas",
+          "jersery": 59101
+        },
+        {
+          "player": "Quitzon",
+          "jersery": 45134
+        }
+      ]
+    }
+  ]
+}
